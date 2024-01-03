@@ -30,3 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Intalación del curso: https://gist.github.com/Klerith/4816679624c1cb528f8e05d902fd7cff
 Vectores: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
 UUID, para referenciar objetos: https://www.npmjs.com/package/uuid
+Para pasar a Github, 
+  * borrar directorios independientemente del sistema (cuidado puede borrar el proyecto) : https://www.npmjs.com/package/del-cli ¡¡Instalar sin global!! npm i del-cli --save-dev
+  * Copiar ficheros del dist a docs https://www.npmjs.com/package/copyfiles ¡¡No istalar global!!
